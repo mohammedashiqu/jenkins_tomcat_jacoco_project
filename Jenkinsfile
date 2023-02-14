@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('clone from github') {
             steps {
-                git branch: 'main', url: 'https://github.com/mohammedashiqu/jenkins_tomcat_project.git'
+                git branch: 'main', url: 'https://github.com/mohammedashiqu/jenkins_tomcat_jacoco_project.git'
             }
         }
         stage('build war file') {
