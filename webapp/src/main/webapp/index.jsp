@@ -53,7 +53,7 @@ body, html {
 <div class="bg-image"></div>
 
 <div class="bg-text">
-  <h1 style="font-size:50px">Succesfully configured..!-V2</h1>
+  <h1 style="font-size:50px">Succesfully configured..!-V3</h1>
 </div>
 
 </body>
